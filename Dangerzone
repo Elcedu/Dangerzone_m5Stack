@@ -1,3 +1,5 @@
+//Autor: Nicolas Möller und Cedric Bühler
+//Erstellt: 16.01.2023
 #include "thingProperties.h" //Bibliothek thingProperties einbeziehen
 #include "M5Stack.h" //Bibliothek M5Stack einbeziehen
 #include <Adafruit_NeoPixel.h> //Bibliothek Adafruit_NeoPixel einbeziehen
